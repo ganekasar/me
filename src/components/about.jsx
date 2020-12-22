@@ -11,10 +11,10 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
-                    <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>
+                    <p>I am a Pre-final Year Computer Science & Engineering Student from Walchand College Of Engineering, Sangli.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years!</p>
+                    <p>I often practice ,<strong>Competitive Programming</strong> on platforms like CodeChef, CodeForces. I am intersted in <strong>Web Development</strong> exploring the power of JavaScript. I am also enthusiastic about <strong>Cloud Computing.</strong> </p>
                     </div>
                 </div>
                 </div>
@@ -37,8 +37,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <h3>Web Development</h3>
+                    <p>I have experience building websites and using JavaScript, NodeJS, React, Bootstrap</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <p>I am exploring the domain, learning Cloud Computing with AWS, Docker and other toools.</p>
                 </div>
                 </div>
             </div>
